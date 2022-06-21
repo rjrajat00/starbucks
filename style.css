@@ -1,0 +1,159 @@
+@media screen and (min-width: 400px) {
+    body {
+      background-color: antiquewhite;
+      justify-content: center;
+      align-content: center;
+    }
+  }
+  nav{
+   display:flexbox;
+   justify-content: center;
+   
+   
+   font-family:  sans-serif;
+  }
+
+  ul {
+    list-style: none;
+    display:-webkit-inline-box;
+    font-size: 5%;
+    font-style:;
+    
+  }
+li{
+    padding-right: 300px;
+  
+}
+img{
+    max-width: 100px;
+    max-height: 140px;
+    justify-content: flex-start;
+    padding-top: 10px;
+    padding-right: 30px;
+    color:aliceblue
+    
+    }
+#nav-bar{
+    background-color:rgb(53, 178, 228);
+    display:inline-flex;
+    height: 120px;
+    margin-right: 15px 0px;
+    font-size: 10px;
+    
+    
+    
+}
+.nav-link{
+  color: rgb(10, 10, 10);
+  font-size: 20px;
+  font-family:cursive;
+}
+
+li{
+  font-size: 25px;
+    font-family:  Helvetica, sans-serif;
+    
+}
+
+#process{
+    
+    display:flex;
+    
+    background-color: rgb(16, 116, 16);
+    margin-bottom: 7%;
+    align-content: flex-end;
+    margin-left: 100px;
+}
+
+.level{
+    background-image: url("drinks.jpg");
+    background-repeat: no-repeat;
+}
+
+#S1{
+  display: flex;
+  background-color: rgb(226, 147, 193);
+  font-family: Verdana,  Tahoma, sans-serif;
+ 
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 25px;
+  
+  margin-left: 200px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+ 
+}
+
+
+h4{
+  font-size: 30px; 
+  color: black;
+}
+h{
+  color: whitesmoke;
+  font-size: 40px;
+  margin-top: 17%;
+}
+
+p1{
+  margin-left: 10%;
+}
+
+#Drinks{
+  display: flexbox;
+  background-color: aquamarine;
+  padding-right: 50px;
+  margin-left: 100px;
+  
+  
+}
+#Foods{
+  display: flexbox;
+  background-color: #348383;
+  color: black;
+  margin-top: 9%;
+  margin-bottom: 9%;
+  margin-left: 100px;
+ 
+  
+  
+}
+
+#featured{
+  display: flexbox;
+  background-color: rgb(59, 54, 57);
+  background-image: url("drinks.jpg");
+  
+  margin-top: 1%;
+  margin-bottom: 4%;
+  margin-left: 100px;
+  
+
+ 
+}
+
+.product {
+  font-size: 20px;
+  font-family: cursive,monospace;
+
+}
+
+#form{
+  padding-bottom:  30px;
+  font-size:2px;
+}
+
+footer{
+  font-size: 5%;
+  font-family:  Helvetica, sans-serif;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+  
+  iframe{
+    padding-left: 10%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+  }
